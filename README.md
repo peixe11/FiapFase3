@@ -5,6 +5,9 @@ Este projeto consiste no desenvolvimento de um sistema de irrigação automatiza
 
 Além do sistema de monitoramento em tempo real, o projeto também possui um banco de dados para armazenar as leituras dos sensores e o histórico de operações de irrigação, utilizando um banco de dados SQL.
 
+
+![WOKWI](https://github.com/user-attachments/assets/6cbd691c-6ac3-44dd-958d-a94a9016e4c9)
+
 ## Sensores e Componentes Utilizados
 
 ### Substituição de Sensores
